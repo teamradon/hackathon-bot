@@ -1,0 +1,18 @@
+# Dependency Files
+node_modules/
+package-lock.json
+
+# Log Files
+logs/
+*.log
+report*.json
+
+# Config Files
+.env
+config.json
+command-leaderboard.json
+
+# Tesseract Trained Data
+*.traineddata
+
+# In-Development Commands
