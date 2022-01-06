@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dragonfire535/xiao.git"
+		"url": "git+https://github.com/teamradon/new.git"
 	},
 	"keywords": [
 		"bot",
@@ -21,18 +21,17 @@
 		"discord-js",
 		"discord-js-commando"
 	],
-	"author": "dragonfire535 <danielbodendahl@gmail.com>",
+	"author": "radon",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/dragonfire535/xiao/issues"
+		"url": "https://github.com/teamradon/new/issues"
 	},
-	"homepage": "https://github.com/dragonfire535/xiao#readme",
+	"homepage": "https://github.com/teamradon/new#readme",
 	"engines": {
 		"node": ">=15"
 	},
 	"dependencies": {
 		"@discordjs/collection": "^0.1.6",
-		"@vitalets/google-translate-api": "^4.0.0",
 		"aki-api": "^5.2.1",
 		"bombsweeper.js": "^1.0.1",
 		"canvas": "^2.6.1",
@@ -40,7 +39,6 @@
 		"cloc": "^2.7.0",
 		"common-tags": "^1.8.0",
 		"connect4-ai": "^0.1.3",
-		"custom-translate": "^2.2.8",
 		"didyoumean2": "^4.1.0",
 		"discord.js": "^12.5.1",
 		"discord.js-commando": "github:discordjs/Commando",
@@ -51,24 +49,13 @@
 		"gifencoder": "^2.0.1",
 		"gm": "^1.23.1",
 		"html-entities": "^2.0.4",
-		"ioredis": "^4.19.4",
-		"js-beautify": "^1.13.4",
 		"js-chess-engine": "^0.6.0",
-		"kuroshiro": "^1.2.0",
-		"kuroshiro-analyzer-kuromoji": "^1.1.0",
 		"mathjs": "^9.0.0",
 		"moment": "^2.29.1",
-		"moment-duration-format": "^2.3.2",
-		"moment-timezone": "^0.5.32",
 		"node-superfetch": "^0.1.10",
-		"opusscript": "^0.0.8",
 		"pokersolver": "^2.1.4",
-		"random-js": "^2.1.0",
-		"rss-parser": "^3.10.0",
 		"semver": "^7.3.4",
 		"sherlockjs": "^1.4.0",
-		"stackblur-canvas": "^2.4.0",
-		"tesseract.js": "^2.1.4",
 		"uuid": "^8.3.2",
 		"winston": "^3.3.3"
 	},
