@@ -50,6 +50,7 @@
 		"gm": "^1.23.1",
 		"html-entities": "^2.0.4",
 		"js-chess-engine": "^0.6.0",
+		"moment-duration-format": "^2.3.2",
 		"mathjs": "^9.0.0",
 		"moment": "^2.29.1",
 		"node-superfetch": "^0.1.10",
