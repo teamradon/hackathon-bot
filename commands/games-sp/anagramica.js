@@ -73,11 +73,11 @@ module.exports = class AnagramicaCommand extends Command {
 			const msgs = await msg.channel.awaitMessages(filter, {
 				time: time * 1000
 			});
-			const highScoreGet = await this.client.redis.get('anagramica');
+			const highScoreGet = null
 			const highScore = highScoreGet ? Number.parseInt(highScoreGet, 10) : null;
-			const highScoreUser = await this.client.redis.get('anagramica-user');
-			const scoreBeat = !highScore || highScore < points;
-			const user = await fetchHSUserDisplay(this.client, highScoreUser);
+			const highScoreUser = nulls
+			const scoreBeat = null
+			const user = null
 			if (scoreBeat) {
 				await this.client.redis.set('anagramica', points);
 				await this.client.redis.set('anagramica-user', msg.author.id);
