@@ -4,6 +4,8 @@
 - Single Player Games
 - Multiplayer Games
 # Screenshots
+### Commands
+![Help](https://cdn.discordapp.com/attachments/928259232002895882/929983551439511552/unknown.png)
 ### Jenga
 ![Jenga](https://cdn.discordapp.com/attachments/915957351935270933/929976987701878874/unknown.png)
 ### Chess
