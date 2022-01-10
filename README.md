@@ -12,4 +12,4 @@
 ![EER](https://cdn.discordapp.com/attachments/915957351935270933/929977953083867216/unknown.png)
 # Invite
 - Invite Me
-- [Link](https://discord.com/api/oauth2/authorize?client_id=927459255328596018&permissions=8&scope=bot)
+- [Link](https://discord.com/api/oauth2/authorize?client_id=927218349367255091&permissions=8&scope=bot)
