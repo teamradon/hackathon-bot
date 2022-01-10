@@ -4,9 +4,9 @@
 - Single Player Games
 - Multiplayer Games
 # Screenshots
-#### Jenga
+### Jenga
 ![Jenga](https://cdn.discordapp.com/attachments/915957351935270933/929976987701878874/unknown.png)
-#### Chess
+### Chess
 ![Chess](https://cdn.discordapp.com/attachments/915957351935270933/929977714620895292/unknown.png)
-#### Emoji Emoji Reveloution
+### Emoji Emoji Reveloution
 ![EER](https://cdn.discordapp.com/attachments/915957351935270933/929977953083867216/unknown.png)
